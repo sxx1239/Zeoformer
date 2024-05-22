@@ -1,6 +1,6 @@
 # Zeoformer
 
-
+We have provided the CSV file of OSDB used in our experiment, and its CIF files can be obtained accordingly(https://zeodb.mit.edu/affinity/).
 You can train and test the model with the following commands:
 
 ```bash

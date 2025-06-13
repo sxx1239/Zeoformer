@@ -9,15 +9,9 @@ conda activate zeoformer
 conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
 conda install pyg -c pyg
 pip install jarvis-tools==2022.9.16
-python setup.py
-# Training Zeoormer for the Materials Project
-cd matformer/scripts/mp
-python train.py
-# Training Zeoformer for JARVIS
-cd matformer/scripts/jarvis
-python train.py
+python setup.py install
 # Training Zeoformer for OSDB
-cd matformer/scripts/jarvis
+cd matformer/scripts/osdb
 python train.py
 ```
 

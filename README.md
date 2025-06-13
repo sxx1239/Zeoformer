@@ -1,4 +1,4 @@
-# Zeoformer
+# ECNU-Zeoformer
 
 We have provided the CSV file of OSDB and the CIF files used in our experiment.
 You can train and test the model with the following commands:

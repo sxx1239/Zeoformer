@@ -16,4 +16,4 @@ python train.py
 ```
 
 ## Acknowledgement
-Our code is built upon previous code versions of the [Matformer](https://github.com/YKQ98/Matformer?tab=readme-ov-file) and [ALIGNN](https://github.com/YKQ98/Matformer?tab=readme-ov-file)(https://github.com/usnistgov/alignn) frameworks. We are deeply grateful for these two excellent codebases.
+Our code is built upon previous code versions of the [Matformer](https://github.com/YKQ98/Matformer?tab=readme-ov-file) and [ALIGNN](https://github.com/YKQ98/Matformer?tab=readme-ov-file)frameworks. We are deeply grateful for these two excellent codebases.

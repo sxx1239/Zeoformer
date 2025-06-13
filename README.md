@@ -11,7 +11,7 @@ conda install pyg -c pyg
 pip install jarvis-tools==2022.9.16
 python setup.py install
 # Training Zeoformer for OSDB
-cd matformer/scripts/osdb
+cd zeoformer/scripts/osdb
 python train.py
 ```
 
